@@ -131,7 +131,7 @@ def Gs():
             x = 0.0290
             
             
-        # The code block below is meant to restrict python compiler into the specified time delay (x).
+        # The code block below is meant to restrict python compiler to the specified time delay (x).
         
         
         start_time = time.time()                                    # This command is to assign real time vlaue to variable "start_time"
