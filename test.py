@@ -1,3 +1,4 @@
+# This file is used to create a client. Refer to the README.md file to understand the purpose of this file.
 import socket
 import os
 import time
@@ -6,7 +7,7 @@ import time
 s = socket.socket()
 # s.connect(('131.252.218.84',9991))
 s.connect(('10.218.219.90',9991))
-path = "G:/My Drive/PGE Frequency Response/midrar_files_2"
+path = "G:/My Drive/PGE Frequency Response/midrar_files_2"		
 lis = os.listdir(path)
 length = len(lis)
 
@@ -17,12 +18,3 @@ while True:
 		s.send('ping'.encode())
 		print(time.time())
 		exit()
-
-# 	for files in os.listdir(path):
-# 		lis.append(files)
-	
-
-	# if :
-	# 	s.send('ping'.encode())
-
-# s.close()
