@@ -56,5 +56,5 @@ The tesing was done on four computers due to COVID-19 pandemic, three of which a
 14. Now once the directory G:\My Drive\PGE Frequency Response\midrar_files_2 gets a new file, the client will send a ping to the server and turn off. The server will run the python file that has the frequency event and waits for another ping. The RTAC will execute a csv file every 10 minutes.
 15. Once a csv file is written in the directory specified, you can download it to the drive by clicking onto the "Download" tab on the WinSCP and choose "Download and Delete" option.
 16. Go to the drive and download the csv file to your computer. The new csv file should in this directory on the drive PGE Frequency Response\midrar_files_2.
-17. Now use the file in this repository "F-Resp-csv_MACRo.py". Change the name of the csv file to the name of the file that you just downloaded from the drive.
+17. Now use the file in this repository "practice.py". Change the name of the csv file to the name of the file that you just downloaded from the drive.
 18. Run the python code. Done!
