@@ -52,7 +52,7 @@ The tesing was done on four computers due to COVID-19 pandemic, three of which a
 10. In the "Interval (in secodns)" bar, type 0.1
 11. PowerShell should open. This PowerShell is checking for files in the specified directory every 0.1 seconds.
 12. Now open command prompt and type the following "cd \Users\Remote\Desktop\Midrar_Files" .This will change directory (cd) to C:\Users\Remote\Desktop\Midrar_Files
-13. In the command prompt, type python3 "test.py" . This will set up client and connect with the server above.
+13. In the command prompt, type python3 "test.py" . This will set up client and connect to the server above.
 14. Now once the directory G:\My Drive\PGE Frequency Response\midrar_files_2 gets a new file, the client will send a ping to the server and turn off. The server will run the python file that has the frequency event and waits for another ping. The RTAC will execute a csv file every 10 minutes.
 15. Once a csv file is written in the directory specified, you can download it to the drive by clicking onto the "Download" tab on the WinSCP and choose "Download and Delete" option.
 16. Go to the drive and download the csv file to your computer. The new csv file should in this directory on the drive PGE Frequency Response\midrar_files_2.
