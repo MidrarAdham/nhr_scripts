@@ -1,3 +1,7 @@
+# This file is used to create a server. Refer to the README.md file to understand the purpose of this file.
+# This file SHALL be ran with "sudo" prior the "python3 F-Resp-csv_MACRo.py" in terminal.(If you're using windows, run command prompt with administrative Credentials)
+
+
 import socket
 import os
 import time
