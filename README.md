@@ -27,7 +27,7 @@ SEL RTAC https://selinc.com/products/3530/
 3. "Remote" computer credentials.
 4. PowerLab_GS credentials
 
-The tesing was done on four computers due to COVID-19 pandemic, three of which are located in PowerLab. The steps below should help my fellow students and researchers to use the files in this repository correctly.
+The tesing was done on four computers due to COVID-19 pandemic, three of which are located in PowerLab. The steps below should help my fellow students and researchers to perform an adequate testing procedure.
 
 ###### Setting up the GS:
 1. **Send an email to (Midrar@pdx.edu) for permission.**
