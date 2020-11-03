@@ -6,7 +6,7 @@ Thanks to Dr. Robert Bass, Sean Keene, and Mohammed Alsaid for your ultimate sup
 
 ## Purpose:
 
-This project to meant to time-align NHR 9410 (Grid Simulator) and Real-Time Automation Controller (RTAC), perform caliberation and testing processes.
+This project to meant to time-align NHR 9410 (Grid Simulator) and Real-Time Automation Controller (RTAC), perform caliberation and testing procedures.
 
 ## Location:
 
