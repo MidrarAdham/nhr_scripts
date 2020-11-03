@@ -152,4 +152,4 @@ def Gs():
     clos(s)
 Gs()
 
-# Thank you Mohammed Alsaid for your ultimate support.
+
