@@ -30,8 +30,8 @@ SEL RTAC https://selinc.com/products/3530/
 The tesing was done on four computers due to COVID-19 pandemic, three of which are located in PowerLab. The steps below should help my fellow students and researchers to use the files in this repository correctly.
 
 ###### Setting up the GS:
-1. **Send an email to (Midrar@pdx.edu) to ask for permission.**
-2. **DO NOT PROCEED UNTIL YOU GET CONFIRMATION EMAIL**
+1. **Send an email to (Midrar@pdx.edu) for permission.**
+2. **DO NOT PROCEED UNTIL YOU GET A CONFIRMATION EMAIL!!**
 ###### Setting up the server:
 1. Open up command prompt or terminal on your computer.
 2. ssh username@IP_Address
