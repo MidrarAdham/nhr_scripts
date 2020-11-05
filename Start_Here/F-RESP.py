@@ -43,4 +43,3 @@ for i in vals:						   # For loop to iterate through each value in ' vals' array
 	if x == 1:
 		conn()
 		#s.send('OUTPUT OFF \n'.encode('utf-8'))
-		clos()
