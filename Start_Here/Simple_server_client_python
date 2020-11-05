@@ -1,0 +1,3 @@
+Here is a simple python code that deals with a small array and send each item to NHR-9410.
+The purpose of this is to introduce the user to server-client method in python.
+This file deals with an array of five elements and sends each element to Gs to change its frequency value. 
